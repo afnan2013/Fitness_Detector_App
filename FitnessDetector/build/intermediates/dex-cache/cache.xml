@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mishu\.android\build-cache\c7af3437245a8739b288d64233d2532b89c4929f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\build\intermediates\pre-dexed\debug\classes_f2fd8d9990717d70f924fa0939d0b5e45ecca4f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mishu\.android\build-cache\55ef5dec12b892c2e83dccb076073ff8af72775b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\build\intermediates\pre-dexed\debug\classes_9f0285640709a4fad499a78c94abd0cd651bb167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mishu\.android\build-cache\9b330e85f32389e0d65a1ad9dd33a836335556a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\build\intermediates\pre-dexed\debug\classes_f7d5eff041fd5eb16b6aee3bedb3bd2f971ffd61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mishu\.android\build-cache\9be26c1d16a0fcbf4c6bd01bbfad28f26ea5de49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\build\intermediates\pre-dexed\debug\classes_8d12a069422980a62cdc92c107119ba39d1b67ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mishu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6c7a4c090e8c78d171d54cb2e76ed4430249c676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mishu\.android\build-cache\8c1a10db01f9e1a052a6a30a1db79b7c937079f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\build\intermediates\pre-dexed\debug\classes_d6e3fd8a891b88982943c1864f66d54a435b9783.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mishu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d021f9b3d593dfe2c059859530a96615009ea2c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mishu\.android\build-cache\2a1ec9cd7fcd6d98814f7bb9bbbdef6022b5c73f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\build\intermediates\pre-dexed\debug\classes_c7e60b475e97c143d1a0566111130f128428bd2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mishu\.android\build-cache\7e31729f1bd760ac0ac50b3ab2ca5e6d7140b13f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\build\intermediates\pre-dexed\debug\classes_6f850cc294d1200aabb70072cf4a1e84a3ece118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mishu\.android\build-cache\8e1420121f93f00ebcad3fe1a765fc4585e94dc3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\build\intermediates\pre-dexed\debug\classes_0e8d648a634cfab20824c9368185ed36894affb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mishu\.android\build-cache\b0e16cc10e6ce5799548d053116c9aaf914eeea0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\build\intermediates\pre-dexed\debug\classes_33dbdd6349dd7d83253047caa7b565bbeea03948.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mishu\.android\build-cache\e26abd8bc05d9e53178a215b9fa4fbf62871cb94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\build\intermediates\pre-dexed\debug\classes_6ad9656d8301bf302048a7da4d4129a70f967372.jar" />
+    </item>
+
+</items>

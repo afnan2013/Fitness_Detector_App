@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mishu\.android\build-cache\55ef5dec12b892c2e83dccb076073ff8af72775b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mishu\.android\build-cache\7e31729f1bd760ac0ac50b3ab2ca5e6d7140b13f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mishu\.android\build-cache\9be26c1d16a0fcbf4c6bd01bbfad28f26ea5de49\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mishu\.android\build-cache\9b330e85f32389e0d65a1ad9dd33a836335556a2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mishu\.android\build-cache\e26abd8bc05d9e53178a215b9fa4fbf62871cb94\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mishu\.android\build-cache\8e1420121f93f00ebcad3fe1a765fc4585e94dc3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mishu\.android\build-cache\8c1a10db01f9e1a052a6a30a1db79b7c937079f7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mishu\.android\build-cache\b0e16cc10e6ce5799548d053116c9aaf914eeea0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mishu\.android\build-cache\c7af3437245a8739b288d64233d2532b89c4929f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mishu\.android\build-cache\2a1ec9cd7fcd6d98814f7bb9bbbdef6022b5c73f\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.mishu.fitnessdetector.LoginActivity
+ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:14:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.mishu.fitnessdetector.MainActivity
+ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:21:19-47
+activity#com.example.mishu.fitnessdetector.ResisterActivity
+ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:22:9-24:20
+	android:name
+		ADDED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml:22:19-51
+uses-sdk
+INJECTED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mishu\.android\build-cache\55ef5dec12b892c2e83dccb076073ff8af72775b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mishu\.android\build-cache\7e31729f1bd760ac0ac50b3ab2ca5e6d7140b13f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mishu\.android\build-cache\9be26c1d16a0fcbf4c6bd01bbfad28f26ea5de49\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mishu\.android\build-cache\9b330e85f32389e0d65a1ad9dd33a836335556a2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mishu\.android\build-cache\e26abd8bc05d9e53178a215b9fa4fbf62871cb94\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mishu\.android\build-cache\8e1420121f93f00ebcad3fe1a765fc4585e94dc3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mishu\.android\build-cache\8c1a10db01f9e1a052a6a30a1db79b7c937079f7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mishu\.android\build-cache\b0e16cc10e6ce5799548d053116c9aaf914eeea0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mishu\.android\build-cache\c7af3437245a8739b288d64233d2532b89c4929f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mishu\.android\build-cache\2a1ec9cd7fcd6d98814f7bb9bbbdef6022b5c73f\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mishu\.android\build-cache\55ef5dec12b892c2e83dccb076073ff8af72775b\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mishu\AndroidStudioProjects\FitnessDetector\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mishu\.android\build-cache\55ef5dec12b892c2e83dccb076073ff8af72775b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mishu\.android\build-cache\7e31729f1bd760ac0ac50b3ab2ca5e6d7140b13f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mishu\.android\build-cache\9be26c1d16a0fcbf4c6bd01bbfad28f26ea5de49\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mishu\.android\build-cache\9b330e85f32389e0d65a1ad9dd33a836335556a2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mishu\.android\build-cache\e26abd8bc05d9e53178a215b9fa4fbf62871cb94\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mishu\.android\build-cache\8e1420121f93f00ebcad3fe1a765fc4585e94dc3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mishu\.android\build-cache\8c1a10db01f9e1a052a6a30a1db79b7c937079f7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mishu\.android\build-cache\b0e16cc10e6ce5799548d053116c9aaf914eeea0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mishu\.android\build-cache\c7af3437245a8739b288d64233d2532b89c4929f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mishu\.android\build-cache\55ef5dec12b892c2e83dccb076073ff8af72775b\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mishu\.android\build-cache\55ef5dec12b892c2e83dccb076073ff8af72775b\output\AndroidManifest.xml:26:9-47
